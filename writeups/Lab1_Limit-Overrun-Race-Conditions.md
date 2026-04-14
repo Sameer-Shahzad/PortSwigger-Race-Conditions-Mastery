@@ -38,13 +38,13 @@ This results in unintended discount stacking and incorrect price calculation.
 ## 📸 Proof of Concept (PoC)
 
 ### 1. Parallel Requests Execution
-![Parallel Requests](../images/Lab1/step1.png)
+![Parallel Requests](../images/Lab1/Step1.png)
 
 ### 2. Server Responses Showing Success
-![Responses](../images/Lab1/step2.png)
+![Responses](../images/Lab1/Step2.png)
 
 ### 3. Final Cart Price After Exploit
-![Final Price](../images/Lab1/poc.png)
+![Final Price](../images/Lab1/PoC.png)
 
 ---
 
