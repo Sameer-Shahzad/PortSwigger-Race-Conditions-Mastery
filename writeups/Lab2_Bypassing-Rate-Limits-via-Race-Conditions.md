@@ -51,19 +51,19 @@ If multiple requests reach the server within this tiny time window, they all byp
 ## 📸 Proof of Concept (PoC)
 
 ### 1. Account Details and Target
-![Account Details](images/Lab2/Step1.png)
+![Account Details](../images/Lab2/Step1.png)
 
 ### 2. Turbo Intruder Configuration
-![Turbo Intruder Setup](images/Lab2/Step2.png)
+![Turbo Intruder Setup](../images/Lab2/Step2.png)
 
 ### 3. Race Single-Packet Script
-![Script Execution](images/Lab2/ss1.png)
+![Script Execution](../images/Lab2/ss1.png)
 
 ### 4. Successful Brute-force Result
-![Successful Result](images/Lab2/Password.png)
+![Successful Result](../images/Lab2/Password.png)
 
 ### 5. Lab Solved
-![Lab Solved](images/Lab2/POC.png)
+![Lab Solved](../images/Lab2/POC.png)
 
 
 ---
